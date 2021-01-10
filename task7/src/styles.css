@@ -1,0 +1,51 @@
+body {
+    font-family: sans-serif;
+    width: 420px;
+    padding: 5px;
+    border: 1px solid #1c1c1c;
+    background: black;
+  }
+  .number {
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background: #1c1c1c;
+  }
+  .text {
+    background: black;
+    border: 1px solid black;
+    width: 305px;
+    color: white;
+    text-align: right;
+  }
+  .operator {
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background: #df7401;
+  }
+  #zero {
+    color: white;
+    width: 205px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background: #1c1c1c;
+  }
+  .c {
+    color: white;
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 5px;
+    background: #a4a4a4;
+  }
+  
