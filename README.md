@@ -5,6 +5,7 @@ noMadCoders의 nico선생님의 과제들입니다.
 
 |Task|Image.gif||
 |:--:|:--:|:--:|
+|Task1|![image description](https://user-images.githubusercontent.com/62688109/104127324-d6e4e880-53a4-11eb-883c-30c133bf7ba6.gif)|Task3 는 이벤트 리스너 사용 영상입니다.|
 |Task2||Task2 는 화면 크기를 줄여서 화면 크기에 따라 Background-color가 특정 크기에 따라 바뀝니다.|
 |Task3|![image description](https://user-images.githubusercontent.com/62688109/104127324-d6e4e880-53a4-11eb-883c-30c133bf7ba6.gif)|Task3 는 2020년 크리스마스의 D-Day를 계산해주는 웹페이지 입니다.|
 |Task4|![](https://user-images.githubusercontent.com/62688109/104127318-d2b8cb00-53a4-11eb-8e1d-02a7b533ea3f.gif)|Task4 는 당신이 태어난 국가를 묻고 list에서 고를시 LocalStorage에 저장이 됩니다.|
